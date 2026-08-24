@@ -1,0 +1,12 @@
+{
+  "status": "idle",
+  "epoch": 0,
+  "totalEpochs": 0,
+  "loss": 1.0,
+  "learningRate": 0.05,
+  "trainingExamples": 0,
+  "trainingTimeSeconds": 0,
+  "lossHistory": [],
+  "startedAt": null,
+  "lastUpdatedAt": null
+}
